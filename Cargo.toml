@@ -1,6 +1,6 @@
 [package]
 name = "aks"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Bernardo Meurer <meurerbernardo@gmail.com>"]
 description = "A fast implementation of the AKS primality test."
 repository = "https://github.com/bemeurer/aks"
